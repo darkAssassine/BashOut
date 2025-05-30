@@ -1,0 +1,20 @@
+{
+    "name": "BashOut.Player",
+    "rootNamespace": "BashOut.Player",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:bd0d373568be1624c8a66eb706ceb7a0",
+        "GUID:5275b4e5f2ffcdc42a2b1802de574024",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:66c69e326e7285548a93c8f92bc244d9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BashOut.Deadzone",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f3e7246ff7da7c245a7a39f2872c00ba"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
